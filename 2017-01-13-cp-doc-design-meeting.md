@@ -13,7 +13,7 @@ Attendees: Brian, Carol, Cameron, Charnpreet
 - Continue prototype of a Jupyter theme based on work done by Charnpreet.
   Repo is now on Cal Poly Jupyter organization.
 
-## Good doc design examples
+## Examples: documentation landing pages
 
 - Apple
 
@@ -71,7 +71,7 @@ nbviewer.
 - Install
 - documentation
 
-## Jupyter documentation landing page
+## Design: Jupyter documentation landing page
 
 Consistent Documentation band that persists on all pages
 - title: Documentation
@@ -81,12 +81,12 @@ Smaller topic boxes
 - design: color
 - card - overlay or on card itself
 
-### Individual sphinx page
+## Design: Individual sphinx page
 
 - top level navbar
 - sphinx documentation
 
-## nbviewer
+## Design: nbviewer
 
 - main site header
 - nbviewer tool bar
@@ -96,12 +96,14 @@ Considerations for nbviewer:
 - custom mime types
 - altair notebooks in nbviewer
 
-## Design lessons
+## Design: lessons
 
 - dark grey looks really good on all things jupyter
 - See social media updates with dark grey - work by Spoo
 
 ## Testing resource: optimalworkshop.com
+
+[Site](https://optimalworkshop.com)
 
 Card design testing - card sorting
 
