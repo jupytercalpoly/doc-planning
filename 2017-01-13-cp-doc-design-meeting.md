@@ -1,4 +1,6 @@
-# Cal Poly Design Meeting - Documentation [Friday, January 13, 2017]
+# Cal Poly Design Meeting - Documentation
+
+Date: Friday, January 13, 2017
 
 Attendees: Brian, Carol, Cameron, Charnpreet
 
