@@ -11,9 +11,11 @@ Attendees: Brian, Carol, Cameron, Charnpreet
 - Check if Cameron's design of single Sphinx page can be easily implemented
   for Jupyter RTD docs i.e. colors, fonts
 - Continue prototype of a Jupyter theme based on work done by Charnpreet.
-  Repo is now on Cal Poly Jupyter organization.
+  [Repo](https://github.com/jupytercalpoly/documentation-theme) is now on Cal Poly Jupyter organization.
 
-## Examples: documentation landing pages
+---
+
+## Good design examples: documentation landing pages
 
 - Apple
 
